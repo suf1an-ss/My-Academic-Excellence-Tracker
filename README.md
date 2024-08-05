@@ -3,6 +3,8 @@
 Welcome to the Semester Dashboard repository! This project includes an Excel dashboard that showcases my academic performance across semesters.
 
 ## Overview
+![image](https://github.com/user-attachments/assets/82eca8a9-2c34-46c5-906e-2ec4cbfd0b6b)
+
 
 This repository contains:
 - An **[Excel file](https://github.com/suf1an-ss/My-Academic-Excellence-Tracker/blob/main/Marks%20Analysis.xlsx)** with a detailed dashboard displaying semester-wise performance metrics. It includes charts, tables, and other metrics that provide insights into performance trends over semesters.
